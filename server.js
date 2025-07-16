@@ -1,4 +1,12 @@
-const express = require('express');
+
+const express = require('express');const fs = require('fs');
+const uploadDir = './uploads';
+
+// ✅ アップロード先の uploads フォルダが存在しない場合は作成
+if (!fs.existsSync(uploadDir)) {
+  fs.mkdirSync(uploadDir);
+}
+
 const cors = require("cors");
 const multer = require('multer');
 const { PythonShell } = require('python-shell');
