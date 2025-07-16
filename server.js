@@ -21,6 +21,11 @@ app.use(cors());
 app.use(express.json());
 app.use(express.static("public"));
 
+// ✅ ルートパスにアクセスしたときのレスポンスを追加
+app.get("/", (req, res) => {
+  res.send("🎉 face-api-server is up and running!");
+});
+
 const storage = multer.diskStorage({
   destination: (req, file, cb) => {
     cb(null, "uploads/");
