@@ -1,0 +1,122 @@
+[
+  {
+    "image_name": "nzk_遠藤さくら2.jpg",
+    "cosine_similarity": 0.8815738019464878,
+    "euclidean_distance": 0.4866748361144473,
+    "similarity_score": 0.6685486934442275,
+    "name": "遠藤さくら",
+    "group": "乃木坂46",
+    "age": 23,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/favorite-face-detection-system.firebasestorage.app/o/nzk_%E9%81%A0%E8%97%A4%E3%81%95%E3%81%8F%E3%82%89.jpg?alt=media",
+    "goodsLinks": null,
+    "profileUrl": "https://www.nogizaka46.com/s/n46/artist/48006?ima=5021"
+  },
+  {
+    "image_name": "nzk_遠藤さくら4.jpg",
+    "cosine_similarity": 0.722769401455698,
+    "euclidean_distance": 0.7446215126415592,
+    "similarity_score": 0.2716260716335902,
+    "name": "遠藤さくら",
+    "group": "乃木坂46",
+    "age": 23,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/favorite-face-detection-system.firebasestorage.app/o/nzk_%E9%81%A0%E8%97%A4%E3%81%95%E3%81%8F%E3%82%89.jpg?alt=media",
+    "goodsLinks": null,
+    "profileUrl": "https://www.nogizaka46.com/s/n46/artist/48006?ima=5021"
+  },
+  {
+    "image_name": "szk_的野美青1.jpg",
+    "cosine_similarity": 0.7137214375375532,
+    "euclidean_distance": 0.7566750457923751,
+    "similarity_score": 0.2511256884111638,
+    "name": "的野美青",
+    "group": "櫻坂46",
+    "age": 18,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/favorite-face-detection-system.firebasestorage.app/o/szk_%E7%9A%84%E9%87%8E%E7%BE%8E%E9%9D%92.jpg?alt=media",
+    "goodsLinks": null,
+    "profileUrl": "https://sakurazaka46.com/s/s46/artist/65?ima=0000"
+  },
+  {
+    "image_name": "szk_小島凪紗2.jpg",
+    "cosine_similarity": 0.70531963182179,
+    "euclidean_distance": 0.7676983368201472,
+    "similarity_score": 0.2322248887300301,
+    "name": "小島凪紗",
+    "group": "櫻坂46",
+    "age": 19,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/favorite-face-detection-system.firebasestorage.app/o/szk_%E5%B0%8F%E5%B3%B6%E5%87%AA%E7%B4%97.jpg?alt=media",
+    "goodsLinks": null,
+    "profileUrl": "https://sakurazaka46.com/s/s46/artist/62?ima=0000"
+  },
+  {
+    "image_name": "nzk_遠藤さくら3.jpg",
+    "cosine_similarity": 0.6653859754875275,
+    "euclidean_distance": 0.8180635971762493,
+    "similarity_score": 0.1440122928440335,
+    "name": "遠藤さくら",
+    "group": "乃木坂46",
+    "age": 23,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/favorite-face-detection-system.firebasestorage.app/o/nzk_%E9%81%A0%E8%97%A4%E3%81%95%E3%81%8F%E3%82%89.jpg?alt=media",
+    "goodsLinks": null,
+    "profileUrl": "https://www.nogizaka46.com/s/n46/artist/48006?ima=5021"
+  },
+  {
+    "image_name": "szk_小島凪紗4.jpg",
+    "cosine_similarity": 0.658711654981675,
+    "euclidean_distance": 0.8261819957107812,
+    "similarity_score": 0.12950838940938503,
+    "name": "小島凪紗",
+    "group": "櫻坂46",
+    "age": 19,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/favorite-face-detection-system.firebasestorage.app/o/szk_%E5%B0%8F%E5%B3%B6%E5%87%AA%E7%B4%97.jpg?alt=media",
+    "goodsLinks": null,
+    "profileUrl": "https://sakurazaka46.com/s/s46/artist/62?ima=0000"
+  },
+  {
+    "image_name": "szk_中嶋優月1.jpg",
+    "cosine_similarity": 0.6583582965768141,
+    "euclidean_distance": 0.8266095855035626,
+    "similarity_score": 0.1287422874893268,
+    "name": "中嶋優月",
+    "group": "櫻坂46",
+    "age": 22,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/favorite-face-detection-system.firebasestorage.app/o/szk_%E4%B8%AD%E5%B6%8B%E5%84%AA%E6%9C%88.jpg?alt=media",
+    "goodsLinks": null,
+    "profileUrl": "https://sakurazaka46.com/s/s46/artist/64?ima=0000"
+  },
+  {
+    "image_name": "szk_小島凪紗1.jpg",
+    "cosine_similarity": 0.6576412495783143,
+    "euclidean_distance": 0.8274765862810689,
+    "similarity_score": 0.12718823046912187,
+    "name": "小島凪紗",
+    "group": "櫻坂46",
+    "age": 19,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/favorite-face-detection-system.firebasestorage.app/o/szk_%E5%B0%8F%E5%B3%B6%E5%87%AA%E7%B4%97.jpg?alt=media",
+    "goodsLinks": null,
+    "profileUrl": "https://sakurazaka46.com/s/s46/artist/62?ima=0000"
+  },
+  {
+    "image_name": "szk_井上梨名4.jpg",
+    "cosine_similarity": 0.6539717007333109,
+    "euclidean_distance": 0.8318993920741721,
+    "similarity_score": 0.11924652722063533,
+    "name": "井上梨名",
+    "group": "櫻坂46",
+    "age": 24,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/favorite-face-detection-system.firebasestorage.app/o/szk_%E4%BA%95%E4%B8%8A%E6%A2%A8%E5%90%8D.jpg?alt=media",
+    "goodsLinks": null,
+    "profileUrl": "https://sakurazaka46.com/s/s46/artist/43?ima=0000"
+  },
+  {
+    "image_name": "szk_小島凪紗3.jpg",
+    "cosine_similarity": 0.6477232367029971,
+    "euclidean_distance": 0.839376868036048,
+    "similarity_score": 0.10576638961475815,
+    "name": "小島凪紗",
+    "group": "櫻坂46",
+    "age": 19,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/favorite-face-detection-system.firebasestorage.app/o/szk_%E5%B0%8F%E5%B3%B6%E5%87%AA%E7%B4%97.jpg?alt=media",
+    "goodsLinks": null,
+    "profileUrl": "https://sakurazaka46.com/s/s46/artist/62?ima=0000"
+  }
+]
