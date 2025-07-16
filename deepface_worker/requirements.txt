@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+deepface
+firebase-admin
+pillow
+numpy
+tensorflow
+scikit-learn
+opencv-python-headless
