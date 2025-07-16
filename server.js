@@ -1,5 +1,6 @@
 
-const express = require('express');const fs = require('fs');
+const express = require('express');
+const fs = require('fs');
 const uploadDir = './uploads';
 
 // ✅ アップロード先の uploads フォルダが存在しない場合は作成
@@ -10,7 +11,6 @@ if (!fs.existsSync(uploadDir)) {
 const cors = require("cors");
 const multer = require('multer');
 const { PythonShell } = require('python-shell');
-const fs = require('fs');
 const fsp = require('fs/promises');
 const path = require('path');
 const { applicationDefault } = require('firebase-admin/app');
