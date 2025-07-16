@@ -1,7 +1,8 @@
 deepface
-opencv-python
 firestore-admin
 pillow
 numpy
 tensorflow
 scikit-learn
+opencv-python-headless
+
