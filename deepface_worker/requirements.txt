@@ -4,6 +4,6 @@ deepface
 firebase-admin
 pillow
 numpy
-tensorflow
+tensorflow-cpu
 scikit-learn
 opencv-python-headless
